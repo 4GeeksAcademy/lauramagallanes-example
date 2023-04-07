@@ -5,6 +5,7 @@ export const Footer = () => (
 		<p>
 			Made with <i className="fa fa-heart text-danger" /> by{" "}
 			<a href="http://www.4geeksacademy.com">4Geeks Academy</a>
+			this is a small change in the footer fot trying do commit
 		</p>
 	</footer>
 );
